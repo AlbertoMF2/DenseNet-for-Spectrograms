@@ -11,4 +11,4 @@ In this project, a **DenseNet121** neural network is used to predict age from EC
 pip install -r requirements.txt
 
 ## Model Weights
-Model weights are not available due to size limits. They can be shared by asking the author.
+Model weights are not available due to size limits. They may be shared after asking the author.
